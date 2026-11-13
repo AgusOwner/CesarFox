@@ -111,7 +111,7 @@ struct SettingsView: View {
                     creditsRow(
                         name: "Cesar",
                         role: language.text("social.iosvn_role"),
-                        url: "wa.me/51993022680"
+                        url: "https://discord.gg/jHbXFA3z8N"
                     )
                 }
 
@@ -119,7 +119,7 @@ struct SettingsView: View {
                     creditsRow(
                         name: "c",
                         role: language.text("credit.filzaslop"),
-                        url: "wa.me/51993022680"
+                        url: "https://discord.gg/jHbXFA3z8N"
                     )
                     creditsRow(
                         name: "discord",
