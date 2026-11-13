@@ -110,7 +110,7 @@ struct AppLogo: View {
 
     var body: some View {
         Group {
-            if let logo = UIImage(named: "GalaxyXLogo") {
+            if let logo = UIImage(named: "FoxRankLogo") {
                 Image(uiImage: logo)
                     .resizable()
                     .scaledToFit()

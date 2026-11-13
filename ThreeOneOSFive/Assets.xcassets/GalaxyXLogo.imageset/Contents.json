@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "GalaxyXLogo.png",
+      "filename" : "FoxRankLogo.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "GalaxyXLogo@2x.png",
+      "filename" : "FoxRankLogo@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "GalaxyXLogo@3x.png",
+      "filename" : "FoxRankLogo@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

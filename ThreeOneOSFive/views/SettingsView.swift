@@ -17,7 +17,7 @@ struct SettingsView: View {
                         AppLogo()
 
                         VStack(alignment: .leading, spacing: 3) {
-                            Text("GalaxyX").font(.headline)
+                            Text("FoxRank").font(.headline)
                             Text(language.text("common.version", appVersion))
                                 .font(.subheadline)
                                 .foregroundStyle(.secondary)
@@ -106,10 +106,10 @@ struct SettingsView: View {
                     creditsRow(
                         name: "Discord",
                         role: language.text("social.github_role"),
-                        url: "https://discord.gg/s2NjmjWV9A"
+                        url: "https://discord.gg/jHbXFA3z8N"
                     )
                     creditsRow(
-                        name: "OsoGame",
+                        name: "Cesar",
                         role: language.text("social.iosvn_role"),
                         url: "wa.me/51993022680"
                     )
@@ -124,7 +124,7 @@ struct SettingsView: View {
                     creditsRow(
                         name: "discord",
                         role: language.text("credit.forcequit"),
-                        url: "https://discord.gg/s2NjmjWV9A"
+                        url: "https://discord.gg/jHbXFA3z8N"
                     )
                 }
             }
